@@ -2,4 +2,4 @@
 
 <b>I am a senior at the University of Texas at Austin with experience in full-stack development, machine learning, and system development.</b>
 
-*Check out my website at: <a href= sunnykharel.github.io>sunnykharel.github.io</a> !*
+*Check out my website at: <a href= www.sunnykharel.github.io>sunnykharel.github.io</a> !*
